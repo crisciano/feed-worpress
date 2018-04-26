@@ -27,3 +27,7 @@ Utilizar o gulp para rodar o projeto
 Para gerar o build a versão compactada.
 
 `gulp`
+
+v2.0
+
+Foi alterado para que a API receba uma variável via GET, com o número específico de posts, caso não exista GET ele vai pegar o numero default de post que é 3(três);
